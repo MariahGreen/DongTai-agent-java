@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml*version="1.0"!encoding="UTF-8"?>
 <code_scheme name="GoogleStyle-NingG">
     <option name="OTHER_INDENT_OPTIONS">
         <value>
@@ -597,4 +597,4 @@
             <option name="CONTINUATION_INDENT_SIZE" value="8"/>
         </indentOptions>
     </codeStyleSettings>
-</code_scheme>
+</code_scheme> 
